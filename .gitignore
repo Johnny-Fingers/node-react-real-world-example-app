@@ -1,0 +1,23 @@
+node_modules
+
+# Environment variables
+.env
+
+# SQLite database (auto-created on first run)
+packages/backend/data/
+
+# Vite build output
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
